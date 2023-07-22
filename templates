@@ -7,7 +7,7 @@
         "https://cdn.discordapp.com/attachments/1132292274072600598/1132293024739770409/pixil-frame-0_1.png"
       ],
       "x": 249,
-      "y": 250
+      "y": 750
     },
     {
       "name": "senko-template",
@@ -15,7 +15,7 @@
         "https://cdn.discordapp.com/attachments/1132292274072600598/1132434554477629561/hjfdxhj.png"
       ],
       "x": 798,
-      "y": 678
+      "y": 1178
     }
   ],
   "whitelist": [],
