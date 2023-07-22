@@ -2,20 +2,20 @@
   "contact": "",
   "templates": [
     {
-      "name": "senko-template",
-      "sources": [
-        "https://media.discordapp.net/attachments/1132292274072600598/1132292434706059334/pixil-frame-0.png?width=34&height=56"
-      ],
-      "x": 798,
-      "y": 680
-    },
-    {
       "name": "umasenko-template",
       "sources": [
         "https://cdn.discordapp.com/attachments/1132292274072600598/1132293024739770409/pixil-frame-0_1.png"
       ],
       "x": 249,
       "y": 250
+    },
+    {
+      "name": "senko-template",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/1132292274072600598/1132298550907244656/pixil-frame-0_3.png"
+      ],
+      "x": 798,
+      "y": 678
     }
   ],
   "whitelist": [],
